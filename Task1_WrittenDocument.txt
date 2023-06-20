@@ -1,0 +1,8 @@
+CS410 Final
+Caleb Rector
+6/20/2023
+
+Recommended steps and correct order to complete them in:
+
+1. Write test class focusing solely on testing the new requirements
+2. Extend the add method to accomodate the new requirements
